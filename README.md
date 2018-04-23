@@ -1,2 +1,2 @@
-# react-script-antd-pro
-Use the react-script to build ant-design-pro.
+# react-scripts-antd-pro
+Use the react-scripts to build ant-design-pro.
